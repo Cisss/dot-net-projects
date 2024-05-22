@@ -1,0 +1,15 @@
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/bin/Debug/net8.0/WriteFiles
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/bin/Debug/net8.0/WriteFiles.deps.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/bin/Debug/net8.0/WriteFiles.runtimeconfig.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/bin/Debug/net8.0/WriteFiles.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/bin/Debug/net8.0/WriteFiles.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.AssemblyInfoInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.AssemblyInfo.cs
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.csproj.CoreCompileInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.sourcelink.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/refint/WriteFiles.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/WriteFiles.genruntimeconfig.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/WriteFiles/obj/Debug/net8.0/ref/WriteFiles.dll

@@ -1,0 +1,15 @@
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/bin/Debug/net8.0/ReadFiles
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/bin/Debug/net8.0/ReadFiles.deps.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/bin/Debug/net8.0/ReadFiles.runtimeconfig.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/bin/Debug/net8.0/ReadFiles.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/bin/Debug/net8.0/ReadFiles.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.AssemblyInfoInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.AssemblyInfo.cs
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.csproj.CoreCompileInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.sourcelink.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/refint/ReadFiles.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ReadFiles.genruntimeconfig.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/ReadFiles/obj/Debug/net8.0/ref/ReadFiles.dll

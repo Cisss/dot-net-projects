@@ -1,0 +1,19 @@
+Adam
+Communication Methods - 90
+Political views - 57
+Math - 60
+
+Amber
+Communication Methods - 80
+Political views - 75
+Math - 95
+
+Laura
+Communication Methods - 55
+Political views - 67
+Math - 63
+
+Olivia
+Communication Methods - 66
+Political views - 56
+Math - 87
