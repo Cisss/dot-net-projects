@@ -1,0 +1,146 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/CalculatorTest/CalculatorTest.csproj": {}
+  },
+  "projects": {
+    "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/Calculator/Calculator.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/Calculator/Calculator.csproj",
+        "projectName": "Calculator",
+        "projectPath": "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/Calculator/Calculator.csproj",
+        "packagesPath": "/Users/franciscavanderwant/.nuget/packages/",
+        "outputPath": "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/Calculator/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/franciscavanderwant/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/CalculatorTest/CalculatorTest.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/CalculatorTest/CalculatorTest.csproj",
+        "projectName": "CalculatorTest",
+        "projectPath": "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/CalculatorTest/CalculatorTest.csproj",
+        "packagesPath": "/Users/franciscavanderwant/.nuget/packages/",
+        "outputPath": "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/CalculatorTest/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/franciscavanderwant/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {
+              "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/Calculator/Calculator.csproj": {
+                "projectPath": "/Users/franciscavanderwant/Desktop/dot-net-projects/Calculator_task/Calculator/Calculator.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "dependencies": {
+            "MSTest.TestAdapter": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "MSTest.TestFramework": {
+              "target": "Package",
+              "version": "[3.0.4, )"
+            },
+            "Microsoft.NET.Test.Sdk": {
+              "target": "Package",
+              "version": "[17.6.0, )"
+            },
+            "coverlet.collector": {
+              "target": "Package",
+              "version": "[6.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
