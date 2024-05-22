@@ -1,0 +1,15 @@
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/bin/Debug/net8.0/FileBasedCalculator
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/bin/Debug/net8.0/FileBasedCalculator.deps.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/bin/Debug/net8.0/FileBasedCalculator.runtimeconfig.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/bin/Debug/net8.0/FileBasedCalculator.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/bin/Debug/net8.0/FileBasedCalculator.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.AssemblyInfoInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.AssemblyInfo.cs
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.csproj.CoreCompileInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.sourcelink.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/refint/FileBasedCalculator.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/FileBasedCalculator.genruntimeconfig.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/FileBasedCalculator/obj/Debug/net8.0/ref/FileBasedCalculator.dll

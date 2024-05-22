@@ -35,7 +35,7 @@ class Read
                 }
             }
             if (line == null) {
-                    Console.WriteLine("No such student in this file");
+                Console.WriteLine("Student doesn't exist in this file");
             }
         }
     }
