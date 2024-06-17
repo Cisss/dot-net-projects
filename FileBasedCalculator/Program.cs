@@ -15,8 +15,9 @@ class Program
 
         while (true) {
             Console.Write("Enter an operation (+, -, /, *): ");
+
             if (char.TryParse(Console.ReadLine(), out operation) && "+-*/".Contains(operation))
-                break;
+            break;
 
             Console.WriteLine("invalid operation");
         }

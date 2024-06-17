@@ -1,0 +1,15 @@
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/bin/Debug/net8.0/Asynchronous_programming
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/bin/Debug/net8.0/Asynchronous_programming.deps.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/bin/Debug/net8.0/Asynchronous_programming.runtimeconfig.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/bin/Debug/net8.0/Asynchronous_programming.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/bin/Debug/net8.0/Asynchronous_programming.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.AssemblyInfoInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.AssemblyInfo.cs
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.csproj.CoreCompileInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.sourcelink.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/refint/Asynchronous_programming.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/Asynchronous_programming.genruntimeconfig.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/Asynchronous_programming/obj/Debug/net8.0/ref/Asynchronous_programming.dll

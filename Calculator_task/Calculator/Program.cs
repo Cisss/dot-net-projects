@@ -13,6 +13,7 @@ public class Calculator
         {
             Console.WriteLine("Enter an operation (+, -, /, *): ");
             operation = Console.ReadLine()[0];
+            Console.WriteLine(operation);
             if("+-*/".Contains(operation))
             break;
         }
