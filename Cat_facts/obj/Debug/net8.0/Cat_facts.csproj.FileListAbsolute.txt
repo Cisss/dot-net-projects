@@ -1,0 +1,15 @@
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/bin/Debug/net8.0/Cat_facts
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/bin/Debug/net8.0/Cat_facts.deps.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/bin/Debug/net8.0/Cat_facts.runtimeconfig.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/bin/Debug/net8.0/Cat_facts.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/bin/Debug/net8.0/Cat_facts.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.AssemblyInfoInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.AssemblyInfo.cs
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.csproj.CoreCompileInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.sourcelink.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/refint/Cat_facts.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/Cat_facts.genruntimeconfig.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/Cat_facts/obj/Debug/net8.0/ref/Cat_facts.dll

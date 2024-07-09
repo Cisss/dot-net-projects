@@ -1,5 +1,6 @@
 Hello World
-hooi
-Something cool
+hooiSomething cool
 Something even cooler
 the coolest
+Hello World
+hooi
