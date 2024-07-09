@@ -1,0 +1,15 @@
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/bin/Debug/net8.0/DateFacts
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/bin/Debug/net8.0/DateFacts.deps.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/bin/Debug/net8.0/DateFacts.runtimeconfig.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/bin/Debug/net8.0/DateFacts.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/bin/Debug/net8.0/DateFacts.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.GeneratedMSBuildEditorConfig.editorconfig
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.AssemblyInfoInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.AssemblyInfo.cs
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.csproj.CoreCompileInputs.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.sourcelink.json
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/refint/DateFacts.dll
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.pdb
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/DateFacts.genruntimeconfig.cache
+/Users/franciscavanderwant/Desktop/dot-net-projects/DateFacts/obj/Debug/net8.0/ref/DateFacts.dll
