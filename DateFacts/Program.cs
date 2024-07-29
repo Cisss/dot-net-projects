@@ -30,10 +30,20 @@ class Program
 
         string url = $"http://numbersapi.com/{month}/{day}/date";
 
-        HttpClient client = new HttpClient();
-        HttpResponseMessage response = await client.GetAsync(url);
-        string responseContent = await response.Content.ReadAsStringAsync();
+        using (HttpClient client = new HttpClient()) {
+            try {
+                HttpResponseMessage response = await client.GetAsync(url);
+                if(response.IsSuccessStatusCode) {
+                    string responseContent = await response.Content.ReadAsStringAsync();
 
-        Console.WriteLine(responseContent);
+                    Console.WriteLine(responseContent);
+                }
+                else {
+                    Console.WriteLine($"Request failed: {response.StatusCode}");
+                }
+            } catch (Exception ex) {
+                Console.WriteLine(ex.ToString());
+            }
+        }
     }
 }
